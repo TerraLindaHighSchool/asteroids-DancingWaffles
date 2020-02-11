@@ -10,7 +10,7 @@ public class Space extends World
 {
     private Counter scoreCounter;
     private int startAsteroids = 3;
-
+    private int random;
     /**
      * Create the space and all objects within it.
      */
